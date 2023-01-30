@@ -1,0 +1,14 @@
+Shift+R = show/off Penggaris
+penggaris hold+drag = make ruler on layer 
+
+klik 2 image = edit image
+select image(clipboard) = [top menu]cut
+
+Image(atas)+Ecplise/shape(bawah) = [top menu]make a mask
+select ecplise(layer) in masked image = [top menu]out of mask
+
+shift+alt+drag = copy paste (with auto grid)
+select.all.that.object >> select.one.circle.of.that >> ctr+d = paste.with.grid.below
+select.all.that.object >> select.strips.of.that+drag >> change.all.distace.including.the.copy.before
+
+[4 dots} >> [+] = save color
