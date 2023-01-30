@@ -12,3 +12,4 @@ select.all.that.object >> select.one.circle.of.that >> ctr+d = paste.with.grid.b
 select.all.that.object >> select.strips.of.that+drag >> change.all.distace.including.the.copy.before
 
 [4 dots} >> [+] = save color
+....
